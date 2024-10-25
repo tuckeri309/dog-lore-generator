@@ -8,3 +8,5 @@ See the Recipe class in https://github.com/COMP426Fall2024/a04-example as an exa
 This assignment is otherwise free form.
 
 Put all files into this repository and submit to Gradescope.
+
+Fill out the following attestation form: https://docs.google.com/forms/d/e/1FAIpQLSc7NfzOJNkzEmipacRHmLXHi7a5N2rOdm84Dv3lETSybLDJDQ/viewform?usp=sf_link
