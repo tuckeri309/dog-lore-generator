@@ -33,7 +33,6 @@ export class DogLore {
     }
 
     async getDogLore(dogImageUrl) {
-        const prompt = `Create a lore for a dog with the following image URL: ${dogImageUrl}`;
         try {
             let response = await fetch(`${this.#baseURL}/chat/completions`, {
                 method: 'POST',
