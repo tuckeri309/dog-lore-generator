@@ -1,6 +1,6 @@
 import { DogLore } from "./dog_model.js";
 
-let api_key = "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"
+let api_key = OPENAI_KEY_HERE
 
 export class DogController {
 
